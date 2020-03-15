@@ -1,0 +1,1 @@
+export const DRINK_BEER = 'DRINK_BEER';
